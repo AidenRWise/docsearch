@@ -1,0 +1,2 @@
+javac DocSearchServer.Java
+java DocSearchServer 1849
